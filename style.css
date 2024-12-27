@@ -28,11 +28,12 @@ h1 {
 }
 .tile-image{
   width: 200px;
+  float: left;
   margin-right: 10px;
   
 }
 
-@media (max-width:680px){
+@media (max-width:580px){
   .logo{
     width: 100px;
   }
